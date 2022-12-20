@@ -8,7 +8,7 @@
 
 ```
 deberta-base              contains NLP_index NLP_label
-microsoftdeberta-v3-base  contains NLP_index NLP_label
+microsoftdeberta-v3-base  contains NLP_label
 xlm-roberta-large         contains NLP_index
 
 Choose one directory
