@@ -63,19 +63,19 @@ python NLP_label_train.py
 
 ## Inference
 
-###index ONLY  
+### index ONLY  
 Run NLPindex_test.py 
 
 ```
 python NLP_index_test.py 
 ```
-###label ONLY  
+### label ONLY  
 Run NLP_label_test.py 
 
 ```
 python NLP_label_test.py 
 ```
-###index + label  
+### index + label  
 first RUN NLP_index_test.py to get index output 
 ```
 python NLP_index_test.py 
