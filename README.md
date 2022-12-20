@@ -4,7 +4,7 @@
 
 ## 隊名: TEAM_2245
 
-## 隊長 : 蘇郁宸  組員: [黃裕芳](https://github.com/Andrewhsin), 林峻安, [陳柏瑋](https://github.com/bobo0303), 賴庭旭  
+## 隊長 : [蘇郁宸](https://github.com/Modovado)  組員: [黃裕芳](https://github.com/Andrewhsin), 林峻安, [陳柏瑋](https://github.com/bobo0303), 賴庭旭  
 
 ```
 ├── README.md    
