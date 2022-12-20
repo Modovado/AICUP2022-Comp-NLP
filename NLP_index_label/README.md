@@ -76,11 +76,11 @@ Run NLP_label_test.py
 python NLP_label_test.py 
 ```
 ### index + label  
-first RUN NLP_index_test.py to get index output 
+first RUN NLP_index_test.py to get index_output 
 ```
 python NLP_index_test.py 
 ```
-set index output as input, then  RUN NLP_label_test.py
+set index_output as label's model input, then  RUN NLP_label_test.py
 ```
 python NLP_label_test.py 
 ```
