@@ -12,15 +12,3 @@
 └── NLP_index_label 預測頭尾index & label
 
 ```
-
-## Acknowledgements
-
-* [Kaggle Tweet Sentiment Extraction Competition: 1st place solution](https://github.com/heartkilla/kaggle_tweet)
-* [RoBERTa - Hugging Face](https://huggingface.co/docs/transformers/model_doc/roberta)
-* [pytorch](https://pytorch.org/)
-* [pandas](https://github.com/pandas-dev/pandas/)
-* [scikit-learn](https://github.com/scikit-learn/scikit-learn)
-* [tqdm](https://github.com/tqdm/tqdm)
-* [huggingface/transformers](https://github.com/huggingface/transformers)
-* [timm](https://github.com/rwightman/pytorch-image-models)
-
