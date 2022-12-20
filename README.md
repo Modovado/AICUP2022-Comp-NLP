@@ -8,46 +8,10 @@
 
 ```
 ├── README.md    
-資料
-├── Batch_answers - train_data (no-blank).csv   競賽所提供訓練資料
-└── Batch_answers - test_data(no_label).csv     競賽所提供測試資料
-程式碼
-├── NLP_two_index_train.py                      訓練與驗證程式碼
-└── NLP_two_index_test.py                       測試程式碼
-存放路徑
-└── model                                       存放權重檔路徑資料夾
-```
-
-## Installation
-python 3.8 ~ 3.10
-
-install latest pytorch
-```
-pip3 install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu117
-```
-and other libraries
-```
-pip install -r requirements.txt
-```
-
-
-## Training & Valdiation
-
-Run NLP_two_index_train.py 
+├── NLP_two_index   預測頭尾index
+└── NLP_index_label 預測頭尾index & label
 
 ```
-python NLP_two_index_train.py 
-```
-
-## Inference
-
-Run NLP_two_index_test.py 
-```
-python NLP_two_index_test.py 
-```
-
-## Checkpoints
-Default (*.pth) saving path: `./model/`
 
 ## Acknowledgements
 
