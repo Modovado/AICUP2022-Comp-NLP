@@ -8,7 +8,8 @@
 
 ```
 ├── README.md    
-├── NLP_two_index   預測頭尾index
+├── NLP_two_index   預測頭尾index 
 └── NLP_index_label 預測頭尾index & label
 
+* different labeling approach
 ```
